@@ -8,8 +8,4 @@ I'm Peter from Germany, and I study Game-Engineering in Kempten(Germany). I real
 * 🐵 Blender
 * ⚙️ Unity, Unreal Engine
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Poseudon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14147957)  
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poseudon&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='#DBF227'>](https://github.com/Poseudon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14147957)  
