@@ -12,4 +12,4 @@ I'm Peter from Germany, and I study Game-Engineering in Kempten(Germany). I real
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poseudon&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poseudon&include_all_commits&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
