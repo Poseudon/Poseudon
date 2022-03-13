@@ -22,7 +22,7 @@ I'm Peter from Germany, and I study Game-Engineering in Kempten(Germany). I real
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="righ" alt="Poseudon's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poseudon&show_icons=true&hide_border=true&theme=github_dark&langs_count=10" />
+  <img align="righ" alt="Poseudon's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poseudon&show_icons=true&hide_border=true&theme=github_dark&langs_count=5" />
 </details>
   
 ### Social
